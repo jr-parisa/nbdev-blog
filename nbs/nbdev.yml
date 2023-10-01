@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-blog"
+  site-url: "https://jr-parisa.github.io/nbdev-blog"
+  description: "Blog on nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/jr-parisa/nbdev-blog"
